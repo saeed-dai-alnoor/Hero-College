@@ -1,10 +1,31 @@
 # hero_college
 
 App for helping student and teaher fo communicatded
-## Getting Started
+<table>
+  <tr>
+    <td>
+         <img src="assets/images/startScreenAR.jpg" width="150" height="310"> 
+    </td>
+    <td>
+         <img src="assets/images/startScreenEN.jpg" width="150" height="310"> 
+    </td>
+    <td>
+         <img src="assets/images/onboarding1.jpg" width="150" height="310"> 
+    </td>
+    <td>
+         <img src="assets/images/onboarding2.jpg" width="150" height="310"> 
+    </td>
+    <td>
+         <img src="assets/images/onboarding3.jpg" width="150" height="310"> 
+    </td>
+    <td>
+         <img src="assets/images/onboarding4.jpg" width="150" height="310"> 
+    </td>
+  </tr>
+</table>
 
+## Getting Started
 This project is a starting point for a Flutter application.
-![My Image](assets/images/readme_images/startScreenAR.jpg)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
