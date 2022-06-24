@@ -4,22 +4,22 @@ App for helping student and teaher fo communicatded
 <table>
   <tr>
     <td>
-         <img src="assets/images/startScreenAR.jpg" width="150" height="310"> 
+         <img src="assets/images/readme_images/startScreenAR.jpg" width="150" height="310"> 
     </td>
     <td>
-         <img src="assets/images/startScreenEN.jpg" width="150" height="310"> 
+         <img src="assets/images/readme_images/startScreenEN.jpg" width="150" height="310"> 
     </td>
     <td>
-         <img src="assets/images/onboarding1.jpg" width="150" height="310"> 
+         <img src="assets/images/readme_images/onboarding1.jpg" width="150" height="310"> 
     </td>
     <td>
-         <img src="assets/images/onboarding2.jpg" width="150" height="310"> 
+         <img src="assets/images/readme_images/onboarding2.jpg" width="150" height="310"> 
     </td>
     <td>
-         <img src="assets/images/onboarding3.jpg" width="150" height="310"> 
+         <img src="assets/images/readme_images/onboarding3.jpg" width="150" height="310"> 
     </td>
     <td>
-         <img src="assets/images/onboarding4.jpg" width="150" height="310"> 
+         <img src="assets/images/readme_images/onboarding4.jpg" width="150" height="310"> 
     </td>
   </tr>
 </table>
