@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 import 'package:hero_college/app/data/common/themes/common_style.dart';
-import 'package:hero_college/app/data/common/themes/custom_colors.dart';
 import 'package:hero_college/app/data/common/themes/layout.dart';
 import 'package:hero_college/app/data/common/widgets/common_custom_Button.dart';
 import 'package:hero_college/app/routes/app_pages.dart';
